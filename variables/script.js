@@ -1,6 +1,6 @@
 
 
-var age =22;
+var age =23;
 console.log(age)
 
 //at run time,the value got changed
