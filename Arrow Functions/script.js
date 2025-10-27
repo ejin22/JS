@@ -3,11 +3,8 @@
 const sayHello= () => {
     console.log('hey')
 }
+dsfad
+
 
 sayHello()
 
-function sayHi(){
-    console.log('hi')
-}
-
-sayHi()
